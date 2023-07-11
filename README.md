@@ -19,8 +19,8 @@
     Dashboard creation.
 . 
 ## Results
-***List the dataset you selected for the project if you selected Option 2. 
-The dataset I selected is [TD_Burden_Country.csv] and it include the following features
+***List the dataset you selected for the project if you         selected   Option 2. 
+    The dataset I selected is [TD_Burden_Country.csv] and it include the following features
     1:- Country or territory name
     2:- Year
     3:-Region
