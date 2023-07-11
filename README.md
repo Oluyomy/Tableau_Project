@@ -79,5 +79,5 @@ I created the following visualization
 ## Challenges 
     .Time constraints to explore available data.
 ## Future Goals
-I will conduct more in-depth statistical analysisto extract valuable insights in the data.
-I will explore other datasets that are relevant to the prevalence of TB and HIV positive cases in affected regions,compare the forecast and proffer solution  to help reduce the death rate in those countries.
+    I will conduct more in-depth statistical analysisto extract valuable insights in the data.
+    I will explore other datasets that are relevant to the prevalence of TB and HIV positive cases in affected regions,compare the forecast and proffer solution  to help        reduce the death rate in those countries.
