@@ -61,7 +61,7 @@ I created the following visualization
     -Identify  the first 6 countries with the highest death rate from TB cases who are HIV positive.
     -Make a prediction for the next 3 years about death rate caused by TB in HIV positive cases across all regions.
 
- *** All these questions where answered using the visualizations created and the following dashboards.
+ *** All these  are questions where answered using the visualizations created and the following dashboards.
     A: Dashboard on  Region cases  of TB incident and death per year.
     B: Dashboard on outlier regions and countries showing incident and death rate by TB and HIV positive cases.
     C: Dashboard showing the first 6 countries with the highest number of death from TB in HIV positive cases,forecast and trendlines.
