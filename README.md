@@ -21,16 +21,16 @@
 ## Results
 ***List the dataset you selected for the project if you         selected   Option 2. 
    - The dataset I selected is [TD_Burden_Country.csv] and it include the following features
-    1. Country or territory name
-    2. Year
-    3. Region
-    4. Estimated total population number.
-    5. Estimated prevalence of TB (all forms) per 100 000 population.
-    6. Estimated prevalence of TB (all forms).
-    7. Method to derive prevalence estimates.
-    8. Estimated number of deaths from TB (all forms, excluding HIV).
-    9.  Estimated number of deaths from TB which are HIV positive.
-    10.  Case detection rate (all forms), percent.
+  -  1. Country or territory name
+   - 2. Year
+  -  3. Region
+   - 4. Estimated total population number.
+   - 5. Estimated prevalence of TB (all forms) per 100 000 population.
+   - 6. Estimated prevalence of TB (all forms).
+   - 7. Method to derive prevalence estimates.
+   - 8. Estimated number of deaths from TB (all forms, excluding HIV).
+   - 9.  Estimated number of deaths from TB which are HIV positive.
+   - 10.  Case detection rate (all forms), percent.
 
 ***Discuss the visualizations you created, and why.
 I created the following visualization
@@ -54,12 +54,12 @@ I created the following visualization
     - 18: Regions with estimated TB prevalence above 2,500,000.
 
 ***I created all these visualization to answer the following questions.
-    -Detect regions and countries with estimated prevalence of TB with population above 2,500,000.
-    -Detect regions and countries with high TB and HIV positive cases.
-    -Identify years of high death rate caused by TB in HIV positive cases across all the regions.
-    -Develop insights into the trends of estimated Death rate from TB and HIV in various regions.
-    -Identify  the first 6 countries with the highest death rate from TB cases who are HIV positive.
-    -Make a prediction for the next 3 years about death rate caused by TB in HIV positive cases across all regions.
+  -  -Detect regions and countries with estimated prevalence of TB with population above 2,500,000.
+  -  -Detect regions and countries with high TB and HIV positive cases.
+   - -Identify years of high death rate caused by TB in HIV positive cases across all the regions.
+  -  -Develop insights into the trends of estimated Death rate from TB and HIV in various regions.
+   - -Identify  the first 6 countries with the highest death rate from TB cases who are HIV positive.
+  -  -Make a prediction for the next 3 years about death rate caused by TB in HIV positive cases across all regions.
 
  *** All these  are questions where answered using the visualizations created and the following dashboards.
    -  A: Dashboard on  Region cases  of TB incident and death per year.
@@ -67,8 +67,8 @@ I created the following visualization
    -  C: Dashboard showing the first 6 countries with the highest number of death from TB in HIV positive cases,forecast and trendlines.
 
     -Overall results show that 5 countries in Africa and and 1 in South Eastern Asia have the highest number of death caused by TB in HIV positive cases.
-    it is also worthy of noting that according to the forecast, countries like Australia,Iran, USA will have TB deathrate near negligible in years to come.
-    -Years with the highest rate of death cause by TB in HIV positive cases are between 2002-2004 for most regions.
+   - it is also worthy of noting that according to the forecast, countries like Australia,Iran, USA will have TB deathrate near negligible in years to come.
+   - Years with the highest rate of death cause by TB in HIV positive cases are between 2002-2004 for most regions.
     - The following regions and countries with estimated prevalence of TB with population above 2,500,000. are as follows
         -  Africa(Democratic of Congo, Ethiopia,Nigeria,South Africa),
         - America(Brazil),Emirates(Pakistan),
